@@ -1,6 +1,6 @@
 # SEO Service Landing Page
 
-A modern, interactive landing page for SEO services built with Next.js 14, TypeScript, Tailwind CSS, and Framer Motion.
+A modern, interactive landing page for SEO services built with Next.js 14, TypeScript, Tailwind CSS, and Framer Motion. This is an awesome page !
 
 ## Features
 
